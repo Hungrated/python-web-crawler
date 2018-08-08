@@ -2,5 +2,9 @@ dist
 build
 venv
 .idea
+<<<<<<< HEAD
 notes/.ipynb_checkpoints
 
+=======
+.ipynb_checkpoints
+>>>>>>> 522f7f3c42b6bcf6ecef57ebf4fb1443ae011a30
